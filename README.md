@@ -1,1 +1,1 @@
-Practica de subir un archivo en github
+Practica de subir un archivo a github
